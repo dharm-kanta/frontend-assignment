@@ -12,13 +12,13 @@ You are free to experiment on look and feel of the page and are allowed to displ
 Links:
 
 Design: https://dribbble.com/shots/7903650-Neaxr-React-Business-Agency-Template
-Material UI Components: https://mui.com/material-ui/all-components/
+Material UI Components: https://mui.com/material-ui/all-components
 Tailwind Documentation: https://tailwindcss.com/docs/installation
 
 Few links which you can use for resources in your page
 
-Link for icons: https://mui.com/material-ui/material-icons/
-Royalty Free Images: https://www.pexels.com/search/landing%20page/
+Link for icons: https://mui.com/material-ui/material-icons
+Royalty Free Images: https://www.pexels.com/search/landing%20page
 
 Also, you can use anything else you think might help you to get to production ready landing.
 
