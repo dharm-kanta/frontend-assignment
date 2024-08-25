@@ -1,25 +1,45 @@
-# frontend-landing-assignment
 
-You are requested to create a landing page where you are provided with the following:Code Repo: https://github.com/dharm-kanta/frontend-landing-assignment
+# Frontend Landing Page Assignment
 
-Tech Used:
-1. React
-2. Material UI
-3. Tailwind CSS
+Welcome to the Frontend Landing Page Assignment! 🎉
 
-You are free to experiment on look and feel of the page and are allowed to display your creativity to its best. Few links which you will need to understand the assignment better
+## Overview
 
-Links:
+This project involves creating a landing page using the following technologies:
 
-Design: https://dribbble.com/shots/7903650-Neaxr-React-Business-Agency-Template
-Material UI Components: https://mui.com/material-ui/all-components
-Tailwind Documentation: https://tailwindcss.com/docs/installation
+- **React**
+- **Material UI**
+- **Tailwind CSS**
 
-Few links which you can use for resources in your page
+You are encouraged to experiment with the design and showcase your creativity to its fullest. The goal is to create a production-ready landing page.
 
-Link for icons: https://mui.com/material-ui/material-icons
-Royalty Free Images: https://www.pexels.com/search/landing%20page
+## Resources
 
-Also, you can use anything else you think might help you to get to production ready landing.
+### Code Repository
 
-Happy coding 💥
+- [Code Repo](https://github.com/dharm-kanta/frontend-landing-assignment)
+
+### Design Inspiration
+
+- [Neaxr React Business Agency Template](https://dribbble.com/shots/7903650-Neaxr-React-Business-Agency-Template)
+
+### Documentation
+
+- **Material UI Components**: [Material UI Components](https://mui.com/material-ui/all-components)
+- **Tailwind CSS**: [Tailwind Documentation](https://tailwindcss.com/docs/installation)
+
+### Additional Resources
+
+- **Icons**: [Material UI Icons](https://mui.com/material-ui/material-icons)
+- **Royalty-Free Images**: [Pexels](https://www.pexels.com/search/landing%20page)
+
+## Instructions
+
+1. Clone the repository from the provided [Code Repo](https://github.com/dharm-kanta/frontend-landing-assignment).
+2. Install the dependencies using `npm install`.
+2. Start the develpoment server `npm start`.
+3. Start developing the landing page using React, Material UI, and Tailwind CSS.
+4. Feel free to explore the provided resources for icons and images to enhance the look and feel of your landing page.
+5. You are free to experiment and bring in any other resources or libraries that will help you achieve a production-ready design.
+
+## Happy Coding 💥
